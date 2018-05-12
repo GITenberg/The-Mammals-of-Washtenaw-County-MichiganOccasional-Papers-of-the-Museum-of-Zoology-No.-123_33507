@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '36445'
     url: http://www.gutenberg.org/2009/agents/36445
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33507#The-Mammals-of-Washtenaw-County-MichiganOccasional-Papers-of-the-Museum-of-Zoology-No.-123
 gutenberg_bookshelf:
 - Animals-Wild-Mammals
 - Animal
